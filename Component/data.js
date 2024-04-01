@@ -47,7 +47,7 @@ Upcoming matches of tata ipl is going to held between sunrisers Hyderabad and Mu
 },
 {
     title:"Who won the tata ipl match between Gujrat titans and hydrabad",
-    id:3,
+    id:5,
     img:"gtvssrh.jpg",
     desc:"Yesterday there was a match between two best teams of tata ipl Gujrat titans vs Sunrisers Hyderabad ",
     content:`Who won the match held between gujrat titans and sunrisers hydrabad on 12th march in afternoon.In the startibg of the match gujrat won the toss and they opt to bat first.After that both the openers of gujrat titans
