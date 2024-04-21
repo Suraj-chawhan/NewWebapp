@@ -166,5 +166,18 @@ Who won the match which was held between CSK and kkr?The tata ipl is the premier
     In the second innings of the match rajsthan royals camed for batting.Both the openers where yashasvi jaiswal and tanush kotian.They started very well Both of them scored 63 runs in the 8 over but after some time they lost there wicket yashaswi jaiswal scored 39 runs at 28 ball with 4 fours and lost his wicket in the balling of rabada.Tanush lost his wicket in the balling of Livingstone he scored 24 runs at 31 balls with 3 fours and 0 six.After there batting Sanju Samson came for batting from punjab side.Sanju is the current captain of punjab kings and also the wicket keeper of punjab.He scored 18 runs at 14 balls and lost his wicket.After his batting riyan parag came for batting and he scored just 23 runs and lost his wicket.After his batting the dhruv jurel came for batting on the pich and he scored 6 runs.Than shimron hitmyer came for batting and he played very well in this match he scored 27 runs at 10 balls on the another side all the players where loosing there wicket such rovman powell keshav maharaja .This type of batting of Rajasthan player they won the match very much easily.They scored 152 runs at 7 wicket with 19.5 overs.Rajsthan won this match very match easily.
     `
 
+},
+{
+    title:"Why tata ipl is famous",
+    id:15,
+    img:"ipl.jpg",
+    desc:"Why ipl is famaous", 
+    content:`
+  
+
+Why ipl is famous social much ? Tata ipl is the very popular tournament in the history of Indian cricket.It is most loved tournament in the India.The people from all across the India watch this tournament there are major 8 teams which plays the ipl with each other.The team who wins the final of ipl they get the trophy of tata ipl 2024.There are many teams play in this tournament such Royal challengers banglore,Rajsthan royals,Chennal super kings,Gujrat titans,Lucknow super giants,Kolkata knights riders,Delhi capitals,Mumbai indians.This are the major teams of tata ipl which plays the match with each team and the team which wins they get points upon there score and wickets.The players across all world come to play this tournament in India.Player come from different countries such as Australia,New Zealand,England ,West Indies,South Africa,Srilanka and many more.They play with each other to win this tournament.They get divided into each team and they play.According to the ipl auction rule.Each team must have only 5 foreigners in there team.Rest of the players they may have to keep from our own countries.Due to the this type of rule the new players get chance two show up there skills in this tournament.Such as mafaka from South Africa he plays in Mumbai Indians and he is first arm baller.Rinku Singh he got selected in Indian team due to the ipl.In last season of ipl Rinku hit 5  sixes in one match and made kkr to win the match.And due to this type of gameplay of Rinku Singh he got selected in Indian team.There are many new players which have get selected in Indian team with the help of ipl.Such has bhuneshvar Kumar,Hardik pandya,K k Rahul ,Krunal pandya,Shubnam gill,Deepak chahar,Uvi chahal and many more.They started there carrier from ipl but now they are best players of Indian cricket team.Three teams are most popular in this ipl tournaments such as Chennai super kings this team is famous due to the Mahindra Singh Dhoni,Royal challengers banglore this team is famous due to the Virat Kohli,Mumbai Indians this  team is famous due to Rohit Sharma.Most successful teams of tata ipl are Chennai super kings and Mumbai Indians.Chennai has won 5 trophy under the captainship of Mahindra Singh Dhoni.Mumbai Indians had also won 5 trophy under the captainship of Rohit Sharma.
+
+    `
+
 }
 ]
