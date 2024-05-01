@@ -179,5 +179,16 @@ Why ipl is famous social much ? Tata ipl is the very popular tournament in the h
 
     `
 
+},
+
+
+{
+    title:"Who won csk vs srh match",
+    id:16,
+    img:"cskvssrh2.jpg",
+    desc:"Csk vs srh match", 
+content:`Who won that days match held between two popular teams of tata ipl Chennai super kings vs Sunrisers hydrabad.In the starting of the match CSK started
+ with there batting.The openers of the CSK team where ajinkya rahane and ruturaj gaikwad.Ruturaj gaikwad is the captain of the CSK team and he is also an opener from CSK team.Csk started with nice gameplay in this match.But after 12 balls of playing of ajinkya rahane he lost his wicket in this match at 9 runs with 1 four.After his wicket Daryl Mitchell came for batting on cris.Daryl Mitchell scored 52 runs in this match in 32 balls with 7 fours and 1 six with the strike rate of 163 in this match.On the non strike side ruturaj was in full form he scored 98 runs at 54 balls with 10 fours and 3 sixes in this match he played very well in this match with the strike rate of 181.At 52 runs Daryl mitchells lost his wicket in the balling of jaydev and catch was done by nitish Reddy.After his wicket Shivam dube came for batting and he played well in this match he scored 39 runs at 20 balls with 1 four and 4 sixes.After some time ruturaj lost his wicket in this match after his wicket the best player from CSK team came for playing his name is ma dhoni and he scored 5 runs at 2 balls with 1 four and due to this type of batting of CSK in this match they scored 212 runs at 20 overs with 3 wickets.In the second innings of the match hydrabad players came for batting on the cries the openers from srh where Travis head and Abhishek Sharma.After 13 runs of scoring head lost his first wicket in this match with 7 balls of playing.On the another side Abhishek Sharma also lost his wicket in 15 runs at 9 balls in the balling of Tushar Deshpande.After there batting anmolpreet Singh came for batting and he got out at 0.Aiden markram came for batting and he scored 32 runs at 26 balls.After that he lost his wicket and nitish Reddy came for batting he scored 15 runs at 15 balls and lost his wicket in this match After his wicket the wicket keeper from srh klassen came for batting and he scored 20 runs at 21 balls and lost his wicket.After his wicket Abdul samad came for batting he scored 19 runs at 18 balls.Shahbaz ahmed came for batting and he scored 7 runs at 5 balls and then pat Cummins came and he scored 5 runs at 7 balls with 1 fours and he is the captain of srh team.At last srh scored total 134 runs at 10 wicket they lost there all wicket in this match.Due to this type of gameplay of srh they lost this match.Csk won this match with 78 runs .
+`
 }
 ]
