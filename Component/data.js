@@ -246,6 +246,18 @@ Who won the match which was held on 5th of May in the evening between KKR and ls
 
 `
 
+},
+
+{
+    title:"Who won KKR vs MI",
+    id:21,
+    img:"mumbaivskkr3.jpg",
+    desc:"Who won the match held between kkr and mumbai", 
+content:`
+
+Who won the match held on 11th of May in evening.Which was held between two best team of tata ipl 2024 one Kolkata knight riders vs Mumbai Indians.In the first innings of the match mi won the toss and they opt to ball first.The openers of kkr where salt who is the current wicket keeper of kkr team.He is an player from England he is 27 years old.He born in bodelwyddan North Wales.On the non strike side there was an West Indies player name Narine .In the starting of the match kkr lost there first wicket in the form of Narine.Narine got out at 0 runs in this match.After 5 balls of playing in this match salt also lost his wicket.Than on one down venkatesh Iyer camed for batting and he scored 42 runs at 21 balls.He scored 6 fours and 2 massive sixes in this match.On the another side shreyash lost his wicket after 10 balls of playing in this match.He scored just 7 runs in this match and lost his wicket.Then nitish Rana came for batting on the cries.He scored 33 runs at 23 balls.With 4 fours and 1 six.Rusdell scored 33 runs in this match at 23 balls with 2 fours and 2 sixes.After the wicket of Russell the Rinku Singh came for batting and he scored 20 runs at 12 balls and he got out in the balling of piyush chawla.Than at last ramandeep and starc where the two batsman which were not out they both scored partnership of 19 runs in this match.After playing 20 overs in this match kkr scored 157 runs at 7 wicket.Piyush chawla and bumrah took two wickets in this match.In the second innings of the match the Mumbai player came to bat the openers where ishan kishan and Rohit Sharma.Both of them scored 40 runs at 22 balls with 5 fours and 2 sixes.Rohit Sharma scored 19 runs at 24 balls with 1 fours and 1 six.Suryakumar yadav scored 11 runs at 14 balls in this match with 1 four.Tilak Verma scored 32 runs at 17 balls with 5 fours and 1 six.Hardik pandya lost his wicket in this match with 2 runs of scoring.Tim David lost his wicket at 0 runs.Nehal wandhe scored 3 runs.Naman dhir 17 runs in this match on 6 balls.Anshul kamboj scored 2 runs at 2 balls.Piyush chawl scored 1 run at 2 balls. And due to the this type of batting of Mumbai Indians they lost this match by 18 runs.
+
+`
 }
 
 
