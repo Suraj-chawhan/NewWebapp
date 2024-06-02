@@ -258,7 +258,89 @@ content:`
 Who won the match held on 11th of May in evening.Which was held between two best team of tata ipl 2024 one Kolkata knight riders vs Mumbai Indians.In the first innings of the match mi won the toss and they opt to ball first.The openers of kkr where salt who is the current wicket keeper of kkr team.He is an player from England he is 27 years old.He born in bodelwyddan North Wales.On the non strike side there was an West Indies player name Narine .In the starting of the match kkr lost there first wicket in the form of Narine.Narine got out at 0 runs in this match.After 5 balls of playing in this match salt also lost his wicket.Than on one down venkatesh Iyer camed for batting and he scored 42 runs at 21 balls.He scored 6 fours and 2 massive sixes in this match.On the another side shreyash lost his wicket after 10 balls of playing in this match.He scored just 7 runs in this match and lost his wicket.Then nitish Rana came for batting on the cries.He scored 33 runs at 23 balls.With 4 fours and 1 six.Rusdell scored 33 runs in this match at 23 balls with 2 fours and 2 sixes.After the wicket of Russell the Rinku Singh came for batting and he scored 20 runs at 12 balls and he got out in the balling of piyush chawla.Than at last ramandeep and starc where the two batsman which were not out they both scored partnership of 19 runs in this match.After playing 20 overs in this match kkr scored 157 runs at 7 wicket.Piyush chawla and bumrah took two wickets in this match.In the second innings of the match the Mumbai player came to bat the openers where ishan kishan and Rohit Sharma.Both of them scored 40 runs at 22 balls with 5 fours and 2 sixes.Rohit Sharma scored 19 runs at 24 balls with 1 fours and 1 six.Suryakumar yadav scored 11 runs at 14 balls in this match with 1 four.Tilak Verma scored 32 runs at 17 balls with 5 fours and 1 six.Hardik pandya lost his wicket in this match with 2 runs of scoring.Tim David lost his wicket at 0 runs.Nehal wandhe scored 3 runs.Naman dhir 17 runs in this match on 6 balls.Anshul kamboj scored 2 runs at 2 balls.Piyush chawl scored 1 run at 2 balls. And due to the this type of batting of Mumbai Indians they lost this match by 18 runs.
 
 `
+},
+
+
+{
+    title:"Who are the qualifier of tata ipl 2024",
+    id:22,
+    img:"whoqulify2024.jpg",
+    desc:"Who are the qualifier of 2024 ipl", 
+content:`
+
+Which teams qualify for the tata ipl final 2024 ?
+In this season of tata ipl every player played very well in this match and all the team gave there 100% for the tournament.Many player from all over the world come to play the tata ipl in india.Ipl it is an major tournament in the history of Indian cricket.The player come from best team such as Australia,New Zealand ,England ,South Africa ,West Indies and many other countries player this game.There are total 10 team which plays ipl matches from all over the Indian cities of state play the match.The best player Indian cricket team also play this match.Due to the ipl the new player get more opportunities.Due to the ipl new bies player are able to play the major tournament for getting part in the Indian cricket team if there performance will be well in this ipl matches.There are many teams compete for this trophy there are two teams which have got more succesfull in the history of tata ipl such as chennai super kings and Mumbai Indians.In this tournament of tata ipl 2024 the two 5 time champions winner where not able to qualify this tournament.Because there best player in the injured condition.In the starting of the match rajsthan was able to qualify for this season.Behind it kkr was able to qualify the this tournament because they won total 8 matches out of 15 in this tournament.Due to which they get qualify.Srh was able to qualify this tournament at second position.At fourth position RCB qualify for the qulifier match against RR.They have won total 6 out of 6 matches to qualify this tournament.The last match was with CSK.And they won the match by 27 runs and they where able to qualify this tournament.After this qulifier match.Rcb will play with RCB for eliminator match.Srh and Kkr will play qulifier match.If kkr wins they will go to final and if srh wins they will be qualify for final.The team which will loose in srh and kkr.Then they will play with the winner of eliminator match winner and the team which will win they will play with kkr final match in Chennai.
+
+`
+},
+
+
+
+{
+    title:"Who won the match held between kkr and srh of qulifier",
+    id:23,
+    img:"kkrvssrh4.jpg",
+    desc:"Who won the match srh vs kkr", 
+content:`
+
+Who won the qulifier match which was held between the two popular teams of tata ipl such as hydrabad and Kolkata.In the history of tata ipl the 
+kkr has won 2 trophys of tata ipl and hydrabad has won 1 trophy of tata ipl.Both are the best teams of tata ipl.The captain of KKR is shreyash 
+Iyer who is an Indian player and hydrabad captain is pat Cummins who is an Australian.The owner of the kkr team is the leading actor of Bollywood the king of Bollywood Shahrukh Khan.And the owner of the hydrabad team is the owner of sun TV network.In the starting of the KKR won the toss and they opt ot ball first.The openers of the hydrabad was
+ Travis head who is an Australian player and Abhishek Sharma which is an Indian player.Travis head lost his wicket in this match at 0 runs with 2 balls of playing in the balling of Mitchell starc.On the other side the Abhishek Sharma lost his wicket at three balls of playing in this match.Than tripathi came for batting after the wicket of head and nitish Reddy after the wicket of Abhishek Sharma.Tripathi played very well in this match because he scored 55 runs at 35 balls with 7 fours and 1 six in this match.On the other side nitish Reddy scored 9 runs at 10 balls and lost his wicket in this match in the balling of starc.Shahbax ahmed lost his wicket at 0 runs.Than klaseen came for batting who is the current wicket keeper of hydrabad and he scored 32 runs at 21 balls.And than he lost his wicket in the balling of chakarwarthy.Then Abdul samad came for batting and he lost his wicket in the balli g of harshit Rana and he scored 16 runs at 12 balls.Than sanvir came for batting and he lost his wicket at 0 runs in the balling of Narine.Than Cummins came on the the cries who is the current captain of hydrabad and he played very nice in this match because he scored 30 runs at 24 balls with 2 fours and 2 sixes.Than he lost his wicket in the balling of Russel and then bhuneshwar came for batting and he got out at 0 runs in the balling of chakravarthy.Due to this type of gameplay of hydrabad they scored 159 runs at 10 wicket in 19.3 overs.In the starting second innings kkr team was in full confidence that they can achive the score very easily.The openers of the kkr where rahmanulla gurbaz and Sunil Narine both the player are foreigners.Gurbaz scored 23 runs at 14 balls and lost his wicket in the balking of natrajan he scored 2 four and 2 six.On the other side Sunil Narine scored 21 runs at 16 balls with 4 fours and 0 six.And lost his wicket in the balli g of Cummins.Than venkatesh Iyer came and shreyash Iyer came for batting both of them made the partnership of 109 runs.Shreyash scored 58 runs at 24 balls with 5 fours and 4 sixes.Iyer scored 51 run at 28 balls with 5 fours and 4 six.And due to the this type of gameplay of kkr they won this match and they qualified for the final of tata ipl 2024.Kkr won this match by 8 wickets.
+
+
+`
+},
+
+
+{
+    title:"Who won eliminator match held between rr vs rcb",
+    id:24,
+    img:"rcbvsrr4.jpg",
+    desc:"Who won rcb vs rr", 
+content:`
+
+
+Who won the match held between the two popular teams of tata ipl 2024 which qualify for this season royal challengers banglore 
+and rajasthan royals.In the starting of the innings the RR won the toss they opt to ball first in this season.In the starting of the first innings
+ RCB was in full form and they were playing this match with lots of confidence because before this match they won against the best team tata ipl
+  from starting end chennai super kings due to this they where in confidence that they will win this match very much easily.Befire this RR was 
+  losing continuously all the matches.In the starting of first innings the openers of the RCB came to the cries Virat Kohli and Indian player and faf duplessis current captain of RCB and also and South African player.Both started the game very well but after 14 balls of playing in this match faf duplessis lost his wicket
+   at 17 runs with 2 fours and 1 six.He got out in the balling of Trent boult and new Zealand player.After his wicket green came for batting and he played very well he scored 27 runs at 21 balls with 2 fours and 1 six.On the other side Virat Kohli was also playing very well he scored 33 runs but at 24 th ball he got out in the bowling of chahal.He scored 4 fours and 1 six in this match.After the wicket of Virat Kohli Rajat patidar camed for batting on the cries and he also was in full form he scored 34 runs at 22 balls.He played very well in this match.He smash 2 fours and 2 massive six.But after few balls of playing he lost his wicket in the balling of avesh Khan.After his wicket Maxwell came for batting on the cries and he got out at 0 runs in this match in the balling of Ashwin.Than lomror came for batting and he scored 32 runs at 17 balls with 2 fours and 2 sixes.After that Dinesh karthik came for batting who is the current keeper of RCB.He scored 11 runs at 13 balls and got out.Than swapnil Singh came and he scored 9 runs at 4 balls with not out.Karn Sharma scored 5 runs at 4 balls and got out at last.Due to this type of gameplay of RCB they scored 172 run at 20 overs with 8 wicket.In the second innings of the match RR came to batting.The best player of RR was not playing this match name Jos butler.He went to do practice of  world cup.He is an England players,He is an one man army of RR team.In the starting the opner of the RR where yashasvi jaiswal and Tom kholer .Jaiswal played nicely in this match he scored 45 runs at 30 balls with 8 fours.And on the other side Tom scored 20 runs at 15 balls and lost his wicket in the balling of Ferguson.Than sanju Samson came for batting who is the current wicket keeper of RR and also captain of RR.He scored 17 runs at 13 balls with 1 six.He got out in the balling of karn Sharma.Than riyan parag came for batting and he scored 36 runs at 26 balls.And got out in the balling of siraj.Dhruv jurel got runout in this match Than hitmyer came for batting  he scored 26 runs and got out in the balling of siraj than rovman powell came for batting and he scored 16 runs at 8 balls and made rr to win this match against RCB.RR won this match with 4 wickets.
+
+`
+},
+
+{
+    title:"Who won the semifinal match held between srh and rr",
+    id:25,
+    img:"srhvsrr4.jpg",
+    desc:"Who won srh vs rr match", 
+content:`
+
+Who won the semifinal match held between the RR and SRH.Both the teams are popular teams of tata ipl 2024.They where at the top of points table in this season.Pat Cummins is the captain of srh and Sanju Samson is the captain of the RR.Both the teams best player from all over the world such as Travis head,Klaseen,Yashavi jaiswal,Trent boult etc.
+In the history of tata ipl both the teams has won one  ipl trophies each.Rajstahn in 2015 and hydrabad in 2016.In the starting of this semifinal match RR won the toss and they opt to ball first.In the start of first innings the hydrabad opener where Travis head and Abhishek Sharma.In this match both of them started very well.Becuase in the last match against kkr they lost there wicket at less amount runs.In this match Travis head scored 35 runs at 28 balls with 3 fours and 1 six.Travis head
+ lost his wicket in the balli g of Sandeep Sharma.On the non strike side Abhishek Sharma played not well in this match he scored 12 runs at 5 balls with 1 four and 1 six and lost his wicket in the balling of Trent boult one of the best bowler of new Zealand.Than tripathi came for batting and he scored 37 runs at 15 balls with 5 fours and 2 sixes.But he lost his wicket in the balling of trent boult .Than markram came for batting and he scored just 1 run in this match and got out in the balling of boult.Than klaasen came for batting he is the current keeper of  srh.He scored 50 runs in their match at 34 balls with 4 sixes.And lost his wicket in the balling of avesh Khan.Than nitish Reddy came for batting and he got out at 0 runs.Shahbaz ahmed scored 18 runs at18 balls with 1 six and lost his precious wicket in this match than Cummins came and he scored 5 runs with not out and jaydev with 5 runs at 2 balls with not out.Due to the this type of batting of srh they scored 175 runs at 9 wicket with 20 overs.In the starting of the second innings the RR came for batting and they played very well in the starting of the match jaiswal scored 42 runs and Tom scored 10 runs at 16 balls and lost his wicket in the balli g of Cummins.Than 21 balls of playing jaiswal lost his wicket in the balling of Shahbaz Ahmed.He scored 4 fours and 3 sixes.Than the captain of RR came for batting Sanju Samson and he got out at 11 balls of playing in this match with 10 runs of scoring.He got out in the balling Abhishek Sharma.Riyan parag socred just 6 runs in this match.Drhuv jurel scored 56 runs at 35 balls with not out in entire innings.On the other side ravichandra Ashwin lost his wicket at 0 runs Hitmyer lost his wicket at 4 runs in the balling of Abhishek Sharma.Rovman poweel scored 6 runs at 12 balls.Trent bould scored 0 runs in 3 balls with not out .Due to the this type of gameplay of RR they lost this match and srh qualify for the final of tata ipl 2024.Srh will play the final against kkr at Chennai stadium Chipook.
+
+
+`
+},
+
+
+{
+    title:"Who are th of tata ipe final match of tata ipl 2024",
+    id:26,
+    img:"kkrvssrhfinal.jpg",
+    desc:"Who won final of tata ipl kkr vs srh", 
+content:`
+
+Who won the final of the tata ipl 2024 held between the two best finalist of tata ipl 2024 kkr and srh.Both the teams are the best teams of tata ipl.The owner of kkr is Shahrukh Khan and hydrabad team owner is sun TV owner.In the history of tata ipl kkr has won 2 trophies an hydrabad has won 1 trophys.If kkr wins the ipl 2024 than they will have 3 trophies of tata ipl.And if hydrabad wins the match then they will have 2 trophies of tata ipl.In the starting of the match kkr won the toss and they opt to ball first.They give chance for hydrabad to bat first.In the starting of the match the openers of the srh lost there wicket in the first over of the innings head lost his wicket at 0 runs in the ballinf of Arora and Abhishek Sharma lost his wicket in the balling of starc .Than tripathi came for batting and he scored 9 runs and lost his wicket in the balling of starc.He his only one four.Than markram scored 20 runs at 23 balls and lost his wicket in this match with 3 fours and the strike rate of markram was 69.He got out in the balling of Russel.Than nitish Reddy came to bat and he scored 13 runs and lost his wicket at 10 balls of playing he smash one foru and 1 six in this match.He got out in the balling of Rana.Than klaasen came for batting and he is the current wicket keeper of srh and he scored 16 runs at 17 balls with 1 four.Shbbaz ahmed scored 8 runs at 7 balls and lost his wicket in the balling of chakravarthy .Abdul scored 4 runs at 4 balls and lost his wicket in the balling of Russel .Cummins scored 24 runs at 19 balls with 2 fours and 1 six and lost his wicket in the balling of Russel.Javdev scored 4 runs at 11 balls and lost his wicket in the balling of narine.Due to this type of gameplay of hydrabad in the final they scored just 112 run at 18.3 over with 10 wicket.In the second innings of the match the both the opner of kkr were in full form because the score was very less for winning this final.Gurbaaz was in full form in this match he scored 39 runs at 32 balls with 5 fours and 2 sixes.Sunil Narine lost his wicket at 6 runs in the balling of Cummins with 1 six.Than Iyer came to bat and he scored 52 runs at 26 balls with 4 fours and 3 six in this match.After the wicket of gurbaz shreyash Iyer csne to bat and he scored 6 runs with not out.Due to this type of best gameplay of kkr they won this final match of tata ipl 2024 against srh.Kkr has become third time champion of tata ipl.
+
+`
 }
+
+
+
 
 
 ]
