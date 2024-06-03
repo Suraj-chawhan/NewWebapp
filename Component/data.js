@@ -337,6 +337,72 @@ content:`
 Who won the final of the tata ipl 2024 held between the two best finalist of tata ipl 2024 kkr and srh.Both the teams are the best teams of tata ipl.The owner of kkr is Shahrukh Khan and hydrabad team owner is sun TV owner.In the history of tata ipl kkr has won 2 trophies an hydrabad has won 1 trophys.If kkr wins the ipl 2024 than they will have 3 trophies of tata ipl.And if hydrabad wins the match then they will have 2 trophies of tata ipl.In the starting of the match kkr won the toss and they opt to ball first.They give chance for hydrabad to bat first.In the starting of the match the openers of the srh lost there wicket in the first over of the innings head lost his wicket at 0 runs in the ballinf of Arora and Abhishek Sharma lost his wicket in the balling of starc .Than tripathi came for batting and he scored 9 runs and lost his wicket in the balling of starc.He his only one four.Than markram scored 20 runs at 23 balls and lost his wicket in this match with 3 fours and the strike rate of markram was 69.He got out in the balling of Russel.Than nitish Reddy came to bat and he scored 13 runs and lost his wicket at 10 balls of playing he smash one foru and 1 six in this match.He got out in the balling of Rana.Than klaasen came for batting and he is the current wicket keeper of srh and he scored 16 runs at 17 balls with 1 four.Shbbaz ahmed scored 8 runs at 7 balls and lost his wicket in the balling of chakravarthy .Abdul scored 4 runs at 4 balls and lost his wicket in the balling of Russel .Cummins scored 24 runs at 19 balls with 2 fours and 1 six and lost his wicket in the balling of Russel.Javdev scored 4 runs at 11 balls and lost his wicket in the balling of narine.Due to this type of gameplay of hydrabad in the final they scored just 112 run at 18.3 over with 10 wicket.In the second innings of the match the both the opner of kkr were in full form because the score was very less for winning this final.Gurbaaz was in full form in this match he scored 39 runs at 32 balls with 5 fours and 2 sixes.Sunil Narine lost his wicket at 6 runs in the balling of Cummins with 1 six.Than Iyer came to bat and he scored 52 runs at 26 balls with 4 fours and 3 six in this match.After the wicket of gurbaz shreyash Iyer csne to bat and he scored 6 runs with not out.Due to this type of best gameplay of kkr they won this final match of tata ipl 2024 against srh.Kkr has become third time champion of tata ipl.
 
 `
+
+},
+
+
+
+{
+    title:"All about t20 worldcup",
+    id:27,
+    img:"t20.jpg",
+    desc:"T20 worldcup all groups", 
+content:`
+
+T20 world cup is the major tournament of the world where all the teams from all over the world take participate to win the icc world cup trophy this tournament held after every 2 years of gap.11 players plays in this match from every team.The team which scores more in 20 overs ín both the innings that team will consider has winner.First of all the team has to comppete and play the match with each other.If the team has more points than other than that team will be qualify for the quarter final of the tournament.If the team wins quarter final they will qualify for the semifinal and after semifinal the team will qualify for the final and if the team wins the final they will get the T20 world cup trophy of 2024.This tournament of T20 world cup is going to held in United States of America.There are various teams from all over the world are taking part in this tournament.There are four groups where teams are divided into each part.Group A consist of following team India,Pakisthan,Ireland,Canada,Usa.India is the best team among this all.There are lots of best player in Indian team such as ms Dhoni,Sachin Tendulkar's,Kapil Dev this where all the best players of Indian team before which got retired.India teams player this year are Rohit Sharma,Virat Kohli,Shivam dube,Bumrah, Yashasvi jaiswal,Hardhik pandya,Sanju Samson,jadeja etc.Pakisthan also has one of the best player of the world name babar Azam.India vs Pakistan is the Biggest rivalry in the history of world cup.Than Ireland Canada and USA are also the best teams of this tournaments.In group B there are 6 teams England, Austrialia,Scotland,Oman,
+Namibia.England is the winner of the last year tournament of T20 world cup.There are many best player in England team such as Ben stokes,Josbutler,Rabada etc.One of the most successful team in the history of cricket or in icc world cup is Austrialia,It has many best players such as Travis head,David Warner,Maxwell,Mitchell starc,Pat Cummins etc.Namibia,Scotland ,Oman are also the best team in this tournament of group B,Group c teams are as follows New Zealand,West Indies, Afganistan,Uganda,Papua New Guinea.This all teams are of group c.Not let us talk about the group d teams.Group D consist of South Africa,Srilanka,Bangladesh,Netherlands,Nepal.
+
+
+
+`
+
+},
+
+
+
+{
+    title:"India vs Bangladesh",
+    id:28,
+    img:"indiavsbangladesh.jpg",
+    desc:"India vs Bangladesh t20", 
+content:`
+Who won the match held between the two best players of T20 world cup 2024.India vs Bangladesh match on June 1.India vs Bangladesh it is also an major rivalry match of both the neighbours in South Asia.India has one of the best players of the tournament of tata ipl or T20 world cup we can say this.Becuase in previous icc world of 50 overs.India does not
+ loose and single match of icc world cup.But at last in the final due to over confidence India loose the match against Australia.Bangladesh also has some of the best player such as Shakib Al Hasan etc.In the starting of the match Bangladesh won the toss and they opt to ball first.The openers of the Indian cricket team was Rohit Sharma and Sanju Samson.They both are the best player of tata ipl.Rohit Sharma is the captain of the Indian cricket team in this tournament.Rohit Sharma scored total 23 runs in this match at 19 balls with 2 fours and 1 six.Samson lost his wicket at 1 run after 6 balls of playing.Than pant came for batting and he is the current wicket keeper of Indian cricket team.He scored his half century in this match.Pant scored 53 runs at 32 balls with 4 fours and 4 sixes.After the wicket of Rohit Surya Kumar yadav came to bat on the cries.Surya scored 31 runs at 18 balls with 4 fours.Than Shivam dube came for batting and he scored 14 runs at 16 balls with 1 massive six.After the wicket of Shivam due hardhik pandya came to bat and he scored 40 runs at 23 balls with 2 fours and 4 six with the strike rate of 173.He was not out till the last over of the first innings and on the other side ravindra jadeja was on the cries he scored 4 runs at 6 balls.Due to the this type of batting of Indian team they score total 182 runs at 20 overs with 5 wickets.In the second innings of the match Bangladesh came to bat.Tanzid and Hasan where the two openers of the Bangladesh team.Sounya sarkar lost his wicket at 0 runs in the balling of arshdeep Singh.Than Litton das came to bat and he also lost his wicket after scoring 6 runs in the balling of arshdeep Singh.Tanzid lost his wicket in the balling of hardhik pandya.Than najmul Hossain shanto came to bat and he lost his wicket at 0 runs in the balling of siraj.Towhif hridoy scored 13 runs at lost his wicket in this match.Than the best player of Bangladesh Shakib Al Hasan came to bat and he scored 28 runs at 34 balls and lost his wicket.Mahmudullah score 40 runs at 28 ball and lost his wicket.Rishaf Hossain scored 5 runs and lost his wicket in this match.Than mahendi scored 3 runs,Jaker Ali scored 0,Tanzim scored 1 runs.Due to this type of gameplay play of Bangladesh they lost this first match against India.India won this tournament with 60 runs.
+`
+},
+
+
+
+{
+    title:"USA vs Canada",
+    id:29,
+    img:"usavscanada.jpg",
+    desc:"USA vs Canada t20 world cup", 
+content:`
+
+Who won the match held between the two popular teams of T20 world cup.Usa vs Canada match of June 1.Both the teams played very well in this match.In the starting of the first innings the Canada team they opt ot bat first.The openers of the canda team was Aaron Johnson and navneet dhaliwal.Both are the best openers of the canda team.Navneet he is an Indian player belongs to punjab in India and lives in Canada and plays from Canada cricket team.Aaron josnson scored 23 runs at 16 balls in this match with 5 fours.He got out in the balling of harmeet Singh.After his wicket in this match pargat Singh came to bat.He is also an Indian player which lives in Canada.He scored 5 runs at 7 balls and lost his wicket in the balling of Jessy Singh.Than Nicolas kirton came to bat and he scored half century in this match.He scored 51 runs at 31 balls with 3 fours and 5 six He lost his wicket in the balling of Ali Khan.Tha. Shreyash movva came to bat his is also an wicket keeper of Canada team.He scored 32 runs in this match with staying not out in 16 balls with 2 four and 2 sixes.On the other side dilpreet Singh scored 11 runs at lost his wicket in this match than Dillion came to bat and he was not out with scoring 1 run in this match.Due to this type of batting of canda team they scored 194 runs at 5 wicket in 20 overs of playing.In the second innings of the match USA team came to bat.The usa team was in full form to play this match and achive the total runs easily.The openers Steven and monank Patel came to bat.Monank Patel is the captain of usa team.Steven Taylor lost his wicket in the starting of the match just by playing 2 balls and scoring 0 runs.Than android gous came to bat on the cries Monank Patel scored 16 runs at 16 balls in this match and lost his wicket in the balling of Dillion.Than Aaron Jones came to bat.Both andries and Aaron where playing in full form.Both of them scored total partnership of 159 runs.Andrues scored 65 runs at 46 balls and Aaron scored 94 runs at 40 balls  with 4 fours and 10 six.He was not out till the entire match.After 46 balls of playing andries lost his wicket in the balling of nikhil dutta.Than Corey Anderson came to bat on the cries and he scored 3 runs at 5 balls Due to this type of gameplay of use they won this match against canda with 7 wicket.They completed the match in 173 overs.
+
+
+
+
+`
+},
+
+
+
+{
+    title:"West indies vs Gueina",
+    id:30,
+    img:"westvsgu.jpg",
+    desc:" West indies vs Gueina t20 world cup", 
+content:`
+
+
+Who won the match held between the two best teams of the T20 world cup West Indies and Guinea at 2nd of June.It was the best gameplay from both the teams.Both the teams gave there 100% to win this match.In the starting of the match west Indies won the toss and they opt to ball first.The openers of the Guinea team where tony ura and Assad vala.Assad vala is the captain of the Guinea team.Tony ura lost his wicket at 5 balls of playing in this match he scored just 2 runs.He lost his wicket in the balling of romaris shepahard.Than lega siaka came to bat on the cries and he also lost his wicket on 1 runs of scoring in this match.He lost at 2 balls of playing in the balling of akela hosein.Than sese bau to bat,He played very well in this match.He scored half century in this match.He scored 50 runs at 43 balls with 6 fours and 1 six in this match.He lost his wicket in the vallibgof Joseph.Than hiri hiri came to bat and he lost his wicket at 2 runs.He played total 6 balls and lost his wicket in the balling of motie.Than Charles ammini came to bat and he scored 12 runs at 14 balls with 0 four  and 0 six.He lost his wicket in the balling of Russel.Kiplin dorgia is wicket keeper of Guinea.He scored 27 runs at 18 balls with 3 fours and he was not out till the entire innings of Guinea.On the other side all the players where loosing there wicket such as Chad soper lost his wicket at 9 balls.Alie nao lost his wicket and 0 runs.Than kabu morwa scored 2 runs at last.Due to the this type of gameplay of guneia they scored total 136 at 20 overs at 8 wickets.In the second innings of the match west Indies came to bat.The openers of the west Indies where Brandon king and jonshon Charles.Brandon played very nice in this match he scored 34 runs at 29 balls.On the other side jonshon lost his wicket at 0 runs.Than Nicholas pooran came to bat on the cries and he scored 27 runs at 27 balls with 1 four and 2 sixes.Pooran he is also an wicket keeper of west Indies team.Roston chase came to bat on the cries and he scored 42 runs at 27 balls with 4 fours and 2 sixes with not out in entire innings on the other side rovman poweel scored 15 runs at lost his wicket.Sherfane scored 2 runs at 7 balls and lost his wicket Than Andre Russel came to bat and he scored 15 runs at 9 balls.And due to the this type of gameplay of west Indies in this match they won this match against guinea with 5 wickets.West indies scored 137 runs at 5 wicket in 19 overs of playing .
+
+
+
+`
 }
 
 
